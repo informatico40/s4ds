@@ -11,7 +11,15 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-
+*/project
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+.idea/*
